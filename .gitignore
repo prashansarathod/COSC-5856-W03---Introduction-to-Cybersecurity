@@ -1,3 +1,13 @@
+# --- CERT dataset (DO NOT COMMIT) ---
+data/
+**/r4.2/
+**/r4.2/**
+*.csv
+*.tar
+*.tar.bz2
+*.bz2
+*.zip
+*.7z
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
